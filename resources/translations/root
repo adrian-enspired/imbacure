@@ -1,0 +1,14 @@
+root {
+  error {
+    input {
+      invalid { "Input '{name}' is invalid" }
+      required { "Input '{name}' in required" }
+      typeerror { "Input '{name}' must be {expected}; {actual} provided" }
+    }
+    invalidargument {
+      inputexception-adderror-error {
+        "at\ritz\InputException::addError() $error must be string|string[]|InputException; {actual} provided"
+      }
+    }
+  }
+}
