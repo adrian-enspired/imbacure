@@ -1,6 +1,6 @@
 <?php
 /**
- * @package    at.ritz
+ * @package    at.imbacure
  * @author     Adrian <adrian@enspi.red>
  * @copyright  2020
  * @license    GPL-3.0 (only)
@@ -17,9 +17,9 @@
  *  If not, see <http://www.gnu.org/licenses/gpl-3.0.txt>.
  */
 
-namespace at\ritz;
+namespace at\imbacure;
 
-use at\ritz\ {
+use at\imbacure\ {
   Error\InputException,
   Error\LogicException,
   Filter\Factory as FilterFactory,

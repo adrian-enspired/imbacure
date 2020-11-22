@@ -7,7 +7,7 @@ root {
     }
     invalidargument {
       inputexception-adderror-error {
-        "at\ritz\InputException::addError() $error must be string|string[]|InputException; {actual} provided"
+        "at\imbacure\InputException::addError() $error must be string|string[]|InputException; {actual} provided"
       }
     }
   }

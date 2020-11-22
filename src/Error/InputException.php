@@ -1,6 +1,6 @@
 <?php
 /**
- * @package    at.ritz
+ * @package    at.imbacure
  * @author     Adrian <adrian@enspi.red>
  * @copyright  2020
  * @license    GPL-3.0 (only)
@@ -17,7 +17,7 @@
  *  If not, see <http://www.gnu.org/licenses/gpl-3.0.txt>.
  */
 
-namespace at\ritz\Error;
+namespace at\imbacure\Error;
 
 use at\exceptable\Exception;
 
